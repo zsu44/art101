@@ -1,0 +1,13 @@
+h1{
+  font-size: 200%;
+  text-indent: 20px;
+}
+p{
+  font-family:"Sans-serif";
+  font-size: 100%;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+#my-selfie {
+    width: 200px;
+}
