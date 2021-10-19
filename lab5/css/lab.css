@@ -1,0 +1,64 @@
+h1{
+  color: black;
+  font-size: 200%;
+  text-indent: 20px;
+}
+
+h2{
+  color: red;
+  font-size: 100%;
+  text-indent: 20px;
+}
+
+h3{
+  color: white;
+  font-size: 100%;
+  text-indent: 20px;
+}
+
+h4{
+  color: blue;
+  font-size: 100%;
+  text-indent: 20px;
+}
+
+h5{
+  color: purple;
+  font-size: 100%;
+  text-indent: 22px;
+}
+
+p{
+  font-family:"Sans-serif";
+  font-size: 80%;
+  text-indent: 20px;
+  /* margin-left: 20px; */
+}
+
+#content{
+  background-color: #B3D5F6;
+  margin:170px;
+  margin-top: 16px;
+  padding: 50px;
+  font-size:19px;
+}
+
+#output{
+  color: purple;
+  margin:20px;
+  font-size:19px;
+}
+img[src="img/toyota.JPG"]{
+  width: 400px;
+  height: auto;
+  float: right;
+  padding: 20px;
+}
+img[src="img/jsfile.PNG"]{
+  margin: 20px;
+}
+
+img[src="img/html.PNG"]{
+  margin: 20px;
+}
+body {background-color: cyan;}

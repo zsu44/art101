@@ -1,0 +1,39 @@
+h1{
+  color: black;
+  font-size: 200%;
+  text-indent: 20px;
+}
+
+h2{
+  color: red;
+  font-size: 100%;
+  text-indent: 20px;
+}
+
+h3{
+  color: white;
+  font-size: 100%;
+  text-indent: 20px;
+}
+
+h4{
+  color: blue;
+  font-size: 100%;
+  text-indent: 20px;
+}
+
+p{
+  font-family:"Sans-serif";
+  font-size: 80%;
+  text-indent: 20px;
+  /* margin-left: 20px; */
+}
+
+#content{
+  background-color: #B3D5F6;
+  margin:170px;
+  margin-top: 16px;
+  padding: 50px;
+  font-size:19px;
+}
+body {background-color: coral;}
